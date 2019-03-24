@@ -13,13 +13,7 @@ also explores the type of dbms and their respective models.
 
 
 <p>
-Before the creation of databases, Data which is a set of dinstinct information had to be stored or recorded on pieces of paper
-In that process thousands of journals , ledgers and countless archives were created which contained billions 
-records ... well thats alot of papers.
-    When it was time to fecth the records it turned to be a very strenous task. They were often problems that arised  from misplaced 
-records to emergence of environmental hazards like fire, DBMS and database were created to try  and solve this problems.
-In the modern world data seem to be a thing that is constantly evolving every second, it has created a facet of growth and 
-challenges for many institutions, Enterprises and Companies in that process.
+Before the creation of databases, data which is a set of distinct information had to be stored or recorded on pieces of papers. Thousands of journals , ledgers and countless archives were created which contained billions of records. when it was time to fetch the records it turned to be a very strenuous task, There were often problems that arised from misplaced records to emergence of environmental hazards like fire, DBMS and databases were created to solve these problems.
 </p>
 
 
@@ -59,10 +53,8 @@ Project managers and analyst hava to do a strict and thorough analysis before a 
 <li>SQLite</li>
 </ul>
 
-<strong> NOTE: All RDBMS databses share commom functionalities, tools and 
-also a method of structing data using relations.</strong>
-
-
+<strong>All RDBMS databases share common functionalities, tools and 
+also a method of structuring data using relations.</strong>
 
 <h3> OBJECT ORIENTED DATABASE MANAGEMENT SYSTEM  "OODBMS"  </h3>
 
@@ -70,14 +62,8 @@ also a method of structing data using relations.</strong>
 <p>This type of system is categorised under the NOSQL. NOSQl "NON  SQL" refers to system that uses others query laguage to store and manipulate asides SQl .
 Data in this system is represented in form of objects as used in obejct oriented progamming.
 
-object oriented database management system is system that combines the capabilties of a database with the principles
-of OOP " Object Oriented Programming" . The power of the object-oriented databases comes from the cyclical treatment of both consistent data, 
-as found in databases, and transient data, as found in executing programs.
-
-Because this system can integrate with any programming language that is based on OOP, it makes it easier for 
-programmers to maintain consistency due to thier knowledge in oop
-OODBMS implemenents the use of OBJECT QUERY LANGUAGE "OQL" which is a query language standard  for OODBMS modeled after SQL But
-no one has tried to fully implement OQl because of its overall complexity...   </p>
+Data in this system is represented in form of objects as used in object oriented programming. Object oriented database management system is system that combines the capabilities of a database with the principles of OOP " Object Oriented Programming" . The power of the object-oriented databases comes from the cyclical treatment of both consistent data as found in databases, and transient data, as found in executing programs.
+Because this system can integrate with any programming language that is based on OOP, it makes it easier for programmers to maintain consistency due to thier knowledge in oop OODBMS implements the use of OBJECT QUERY LANGUAGE "OQL" which is a query language standard for OODBMS modeled after SQL,  but no one has tried to fully implement OQl because of its overall complexity…  </p>
 
 
 <p> Some examples databases that are based on the OODBMS model are </p>
@@ -96,21 +82,12 @@ no one has tried to fully implement OQl because of its overall complexity...   <
 
 <h3>GRAPH DATABASE MANAGEMENT SYSTEM</h3>
 
-<p> This system implements the use of graph structures for sematic queries, 
+<p> This system implements the use of graph structures for semantic queries, 
 Data are stored in form of Nodes, edges and properties.
-In this systems nodes represents an entity such as an employee, a person or an object. 
-Graph databases are also categorized under NoSQL databases which were
-created to address the limitations of the existing relational databases. 
-
-While the graph model explicitly lays out the dependencies between nodes of data, 
-the relational model and some other NoSQL database models link data by implicit connections.
-Graph databases, by design, allow simple and fast retrieval.
-
- As of 2017, no single graph query language has been universally adopted in the
-same way as SQL was for relational databases, and there is a wide variety of systems, most often tightly 
-tied to one product. Some standardization efforts have occurred, leading to multi-vendor query languages like
-Gremlin, SPARQL, and Cypher. In addition to having query language interfaces, 
-some graph databases are accessed through application programming interfaces "API". </p>
+In this systems nodes represents an entity such as an employee, a person or an object. Graph databases are also categorized under NOSQL databases which were created to address the limitations of the existing relational databases.
+While the graph model explicitly lays out the dependencies between nodes of data, the relational model and some other NOSQL database models link data by implicit connections. Graph databases, by design, allow simple and fast retrieval.
+As of 2017, no single graph query language has been universally adopted in the same way as SQL was for relational databases, and there is a wide variety of systems, most often tightly tied to one product. Some standardization efforts have occurred, leading to multi-vendor query languages like
+Gremlin, SPARQL, and Cypher. In addition to having query language interfaces, some graph databases are accessed through the use of application programming interfaces "API". </p>
 
 
 
@@ -127,12 +104,7 @@ some graph databases are accessed through application programming interfaces "AP
 
 <h3>DOCUMENT DATABASE MANAGEMENT SYSTEM</h3>
 
-<p>  Document orientated DBMS are systems designed for storing, modfying and managing semi-structured data such as
-document.this particular type of systems is a crucial member of the NOSQL family.
-Databases using the the document oriented model are very easy for developers or engineers to use because data are
-stored in either JSON or XML.
-This  system uses internal structure of the document for identification and storage.the system also saves all
-information for a given item in a single instance of a database rather spread out over tables as with relational system </p>
+<p>  Document orientated DBMS are systems designed for storing, modifying and managing semi-structured data .This system is also a member of the NOSQL family. Databases using the the document oriented model are very easy for developers or engineers to use because data are stored in either JSON or XML. The system uses internal structure of the document for identification and storage.The system also saves all information for a given item in a single instance of a database rather spread out over tables as with the relational system. </p>
 
 
 
