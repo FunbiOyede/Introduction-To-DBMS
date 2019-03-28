@@ -13,28 +13,27 @@ also explores the type of dbms and their respective models.
 
 <h3>INTRODUCTION </h3>
 
-
 <p>
-Before the creation of databases, data which is a set of distinct information had to be stored or recorded on pieces of papers. Thousands of journals , ledgers and countless archives were created which contained billions of records. when it was time to fetch the records it turned to be a very strenuous task, There were often problems that arised from misplaced records to emergence of environmental hazards like fire, DBMS and databases were created to solve these problems.
-</p>
-
-
-
-<h3>WHAT IS A DBMS</h3>
+ In this digital age, data is king. Businesses that can succesfully store and manage thier data have a compettive advantage over those that are overhelmed by the flow of information.With some many businesses sittingon more data than before, the demand softwares to handle this task is at an all-time high.
+ 
+ By collecting minute and updated data, companies are using the said information to achieve their goals in a systematic way on one hand and empower their business in a strategic manner on the other hand. 
 <p>
-A database management system is a system  that facilitates the definitions and management
-of data in databases.
- They establishes a systematic way of create,updating, retreiving and managing data which makes
-it possible for progarmmers to  perfrom crud operations " CREATE READ  UPDATE DELETE"  on data in a database.
-Database management systems have been playing crucial part in the creation and modifaction of data,
-They are so needed for their efficieny in running and managing data, And They also important to businesses and 
-organizations because they provide an highly efficient method for handling multiple types of data.
+
+
+
+<h3>WHAT ARE DATABASE MANAGEMENT SYSTEMS</h3>
+<p>
+Database management systems, also known as DBMS are sfotware programs that acts as a connecting point or a bridge bewteen databases and various end users and appilcation that needs access to them. The purpose of a DBMS is to provide businesses with an access point to  facilitates the definition and management of data in databases.
+ 
+Though the terms have become somewhat synonymous over time, a database and a DBMS are not the same thing. A database is simply a collection of related data. A DBMS, on the other hand, is a tool to manage and organize multiple databases. In other words, the database stores the data, while the DBMS accesses and manipulates it.
+ 
+
 </p>
 
 
 
 <h4>TYPES OF DBMS</h4>
-<p> Although there are more than 4 types of DBMS, In this article i would speaking about the most widely used system.</p>
+<p>This article focuses on the  four most widely used Database management system </p>
 
 
 <h3> Relational Database Managment System "RDBMS"  </h3>
@@ -46,7 +45,7 @@ Query Language. One of the main advantage of the relational databases is that it
 
 Project managers and analyst hava to do a strict and thorough analysis before a database of this model can be popualted and used, This in turns ensures the availability of the systems and wont cause errors at any point in time. </p>
 
-<p> Examples of RDBMS are</p>
+<p> Examples of databases based on this system
 
 <ul>
 <li>MySQL</li>
@@ -58,6 +57,8 @@ Project managers and analyst hava to do a strict and thorough analysis before a 
 <strong>All RDBMS databases share common functionalities, tools and 
 also a method of structuring data using relations.</strong>
 
+
+
 <h3> OBJECT ORIENTED DATABASE MANAGEMENT SYSTEM  "OODBMS"  </h3>
 
 
@@ -68,12 +69,12 @@ Data in this system is represented in form of objects as used in object oriented
 Because this system can integrate with any programming language that is based on OOP, it makes it easier for programmers to maintain consistency due to thier knowledge in oop OODBMS implements the use of OBJECT QUERY LANGUAGE "OQL" which is a query language standard for OODBMS modeled after SQL,  but no one has tried to fully implement OQl because of its overall complexity…  </p>
 
 
-<p> Some examples databases that are based on the OODBMS model are </p>
+<p> Examples of databases based on this system </p>
 
 <ul>  
 <li>InterSystems Caché </li>
 <li>ConceptBase</li>
-<li>WakandaDB</li>
+<li>WakandaDB</li>++
 <li>ObjectDatabase++</li>
 <li>Realm</li>
 </ul>
@@ -93,7 +94,7 @@ Gremlin, SPARQL, and Cypher. In addition to having query language interfaces, so
 
 
 
-<p>Examples of this systems are</p>
+<p>Examples of databases based on this system</p>
 
 <ul>
 <li>Neo4j</li>
@@ -110,7 +111,7 @@ Gremlin, SPARQL, and Cypher. In addition to having query language interfaces, so
 
 
 
-<p>Examples of this systems are</p>
+<p>Examples of databases based on this system</p>
 
 <ul>
 <li>MongoDB</li>
